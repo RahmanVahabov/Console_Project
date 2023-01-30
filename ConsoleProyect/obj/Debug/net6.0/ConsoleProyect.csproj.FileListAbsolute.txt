@@ -1,0 +1,15 @@
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/bin/Debug/net6.0/ConsoleProyect
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/bin/Debug/net6.0/ConsoleProyect.deps.json
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/bin/Debug/net6.0/ConsoleProyect.runtimeconfig.json
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/bin/Debug/net6.0/ConsoleProyect.dll
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/bin/Debug/net6.0/ConsoleProyect.pdb
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.csproj.AssemblyReference.cache
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.AssemblyInfoInputs.cache
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.AssemblyInfo.cs
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.csproj.CoreCompileInputs.cache
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.dll
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/refint/ConsoleProyect.dll
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.pdb
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ConsoleProyect.genruntimeconfig.cache
+/Users/rehmanvahabov/codeacademy/ConsoleProyect/ConsoleProyect/obj/Debug/net6.0/ref/ConsoleProyect.dll
